@@ -1,4 +1,4 @@
-### Hi there 👋
+### JAEWON CHOI 👋
 
 <div align="center">
     
@@ -7,7 +7,7 @@
 </div>
 <div align="center">
     
-  [![ONE's github stats](https://github-readme-stats.vercel.app/api?username=choi-jaewon)](https://github.com/choi-jaewon/github-readme-stats)
+  [![ONE's github stats](https://github-readme-stats.vercel.app/api?username=choi-jaewon&show_icons=true&theme=great-gatsby)](https://github.com/choi-jaewon/github-readme-stats)
 
 </div>
 
